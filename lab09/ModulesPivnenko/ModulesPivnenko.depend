@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681055751 source:e:\bmtp_nogit\laba_9\modulespivnenko\main.cpp
+	<math.h>
+	"ModulesPivnenko.hpp"
+	<iostream>
+
+1681052762 e:\bmtp_nogit\laba_9\modulespivnenko\modulespivnenko.hpp
+
