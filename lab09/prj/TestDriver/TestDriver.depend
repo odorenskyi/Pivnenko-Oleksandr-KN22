@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1681226443 source:e:\bmtp_nogit\laba_9\prj\testdriver\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<cmath>
+	"ModulesPivnenko.hpp"
+
+1681052762 e:\bmtp_nogit\laba_9\modulespivnenko\modulespivnenko.hpp
+
