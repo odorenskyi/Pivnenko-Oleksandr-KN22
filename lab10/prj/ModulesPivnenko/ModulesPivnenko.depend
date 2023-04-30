@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1682681965 source:e:\bmtp_nogit\laba_10\prj\modulespivnenko\main.cpp
+	<math.h>
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<ctime>
+	<ctype.h>
+
