@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1683315663 source:e:\bmtp_nogit\laba_12\prj\teacher\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	"header.hpp"
+
+1683315621 e:\bmtp_nogit\laba_12\prj\teacher\header.hpp
+	<string>
+	<exception>
+
+1683316924 source:e:\bmtp_nogit\lab12\prj\teacher\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	"header.hpp"
+
+1683315621 e:\bmtp_nogit\lab12\prj\teacher\header.hpp
+	<string>
+	<exception>
+
